@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Estudar Python",
+        "descricao": "Praticar POO",
+        "prioridade": "Alta",
+        "concluida": true
+    },
+    {
+        "titulo": "Estudar Java",
+        "descricao": "Estudar JMV",
+        "prioridade": "baixa",
+        "concluida": false
+    }
+]
